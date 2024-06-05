@@ -16,6 +16,6 @@ El jugador controla el ratón haciendo clic en las celdas válidas.
 
 ## Video de demostración
 
-Puedes ver el [video de demostración]([https://drive.google.com/file/d/FILE_ID/vie](https://drive.google.com/file/d/1AKp2QFWTE8CaWR4967cxSB2mRuaMUUil/view?usp=drive_link)) en Google Drive.
-Puedes ver el [video de demostración]([[https://drive.google.com/file/d/FILE_ID/vie](https://drive.google.com/file/d/1AKp2QFWTE8CaWR4967cxSB2mRuaMUUil/view?usp=drive_link)](https://drive.google.com/file/d/1qpAMEvnnbgcqMddkOpmJOVo22ElZsHSd/view?usp=drive_link)) en Google Drive.
+Puedes ver [video de demostración del gato ganando](https://drive.google.com/file/d/1AKp2QFWTE8CaWR4967cxSB2mRuaMUUil/view?usp=sharing) y del 
+ [ratón ganando](https://drive.google.com/file/d/1qpAMEvnnbgcqMddkOpmJOVo22ElZsHSd/view?usp=sharing) en Google Drive.
 
