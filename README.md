@@ -9,22 +9,6 @@ Definición un tablero en el que el gato y el ratón interactúan. En este caso 
 
 Este proyecto implementa un juego de "Gato y Ratón" utilizando Pygame, donde un jugador controla al ratón y trata de llegar al otro lado del tablero sin ser atrapado por el gato, que es controlado por el algoritmo Minimax con poda alpha-beta.
 
-## Instalación
-
-1. Instala las dependencias con pip:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-2. Asegúrate de tener las imágenes `gato.png` y `raton.png` en la carpeta `images`.
-
-## Uso
-
-Ejecuta el script principal para iniciar el juego:
-```sh
-python gato_y_raton_final.py
-```
-
 # Reglas del Juego
 El objetivo del ratón es llegar a la parte superior del tablero.
 El gato intentará atrapar al ratón utilizando el algoritmo Minimax.
