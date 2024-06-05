@@ -1,4 +1,4 @@
-# -🐧Challenge-Minimax-El-Gato-y-el-Raton😼🐭 con Python🐍
+#🐧Challenge Minimax: El Gato y el Raton😼🐭 con Python🐍
 Implementación del algoritmo Minimax para simular estrategias de un gato y un ratón. En este ejercicio, el ratón debe ser capaz de evadir al gato de manera inteligente, y el gato debe anticipar los movimientos del ratón.
 Este proyecto implementa un juego de "Gato y Ratón" utilizando Pygame, donde un jugador controla al ratón y trata de llegar al otro lado del tablero sin ser atrapado por el gato, que es controlado por el algoritmo Minimax con poda alpha-beta.
 
